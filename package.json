@@ -1,6 +1,6 @@
 {
   "name": "artemis-http-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "artemis-http-client node.js SDK",
   "main": "index.js",
   "directories": {
